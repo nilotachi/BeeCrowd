@@ -8,7 +8,9 @@ import java.lang.Math;
 public class BeeCrowd01 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        
+
+        //TESTE Commit GIT
+
         double A, B,C, aux;
             
             A = input.nextDouble();
